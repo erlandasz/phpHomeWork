@@ -1,0 +1,19 @@
+{
+    "name": "ezphp/namudarbai",
+    "description": "1st php homework",
+    "authors": [
+        {
+            "name": "Erlandas",
+            "email": "30452017+erlandasz@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2.12"
+    },
+    "autoload": {
+        "psr-0": {
+            "functions": "src/"
+        }
+    }
+}
