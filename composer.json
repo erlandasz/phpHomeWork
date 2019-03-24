@@ -12,8 +12,6 @@
         "php": ">=7.2.12"
     },
     "autoload": {
-      "classmap":[
-          "src/"
-      ]
+      "files":["src/functions.php"]
     }
 }
