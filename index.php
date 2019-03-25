@@ -13,4 +13,5 @@
     
         echo "Nfq\Akademija\Strict\calculateHomeWorkSum is:". Nfq\Akademija\Strict\calculateHomeWorkSum(3, 2.2, '1');
     echo "<hr>"
+
 ?>
