@@ -6,5 +6,4 @@ namespace Nfq\Akademija\Strict {
         return array_sum($numbers);
     }
 }
-
 ?>
